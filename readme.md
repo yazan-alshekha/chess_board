@@ -10,3 +10,14 @@ In addition to displaying the board, the program will identify if the queens are
 
 **Technologies**
 Technologies used in order to establish this project are Python, Jupyter Notebook, Numpy and Pyplot.
+
+## update (i am using pip in this project)
+to create new project:
+mkdir project-name
+cd project-name
+python -m venv .venv
+source .venv/bin/activate
+
+to deactivate the venv 
+"deactivate"
+
